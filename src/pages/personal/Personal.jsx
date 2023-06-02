@@ -24,7 +24,7 @@ const Personal = () => {
                             <input type='text' id='ask-ques-tags' placeholder='e.g. (xml typescript wordpress)' />
                         </label>
                     </div>
-                    <input type='submit' value='Review your question' className='review-btn' />
+                    <input type='submit' value='Submit' className='review-btn' />
                 </form>
             </div>
         </div>
